@@ -1,4 +1,4 @@
-# Course Content for CS391
+# Next.js Course Content for CS391
 ## Learning Goals
 - Routing in Next.js
 - Writing your own APIs
